@@ -15,6 +15,7 @@ Pensei no tema ( "O tema do Agrinho2025") e decidi que iria fazer uma historinha
 -Usei o alura para me ajudar no passo a passo
 -Separei o código em passo a passo e o organizei, seguindo inspiração no projeto passado, feito no trimestre passado.
 -colori o projeto como fizemos em projetos anteriores
+-vi tutoriais no youtube que me ajudaram muito
 -Organização do repositório:
 -Criei o repositório no GitHub usando o tutorial que a professora passou em aula.
 
@@ -29,7 +30,6 @@ Pensei no tema ( "O tema do Agrinho2025") e decidi que iria fazer uma historinha
 ### Referências
 -Youtube – Como criar repositório (vídeo explicativo)
 -GitHub
--Inteligência Artificial
 -alura
 -p5js
 
